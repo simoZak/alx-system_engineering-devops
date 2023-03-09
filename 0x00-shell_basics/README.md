@@ -7,4 +7,5 @@ script 6 : 5-listfilesdigitonly => Display current directory contents. Long form
 script 7 : 6-firstdirectory => Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 ciprt 8 : 7-movethatfile => Move the file betty from /tmp/ to /tmp/my_first_directory.
 script 9 : firstdelete => Delete the file betty.
+script 10 : 9-firstdirdeletion => Delete the directory my_first_directory that is in the /tmp directory.
 
