@@ -2,4 +2,5 @@ script 1: 0-current_working_directory => prints the absolute path name of the cu
 script 2: 1-listit => Display the contents list of your current directory
 script 3 : 2-bring_me_home => changes the working directory to the user’s home directory.
 script 4 : 3-listfiles => Display current directory contents in a long format.
+cript 5 : 4-listmorefiles => Display current directory contents, including hidden files (starting with .). Use the long format.
 
