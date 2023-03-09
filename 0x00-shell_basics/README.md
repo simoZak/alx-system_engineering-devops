@@ -8,4 +8,5 @@ script 7 : 6-firstdirectory => Create a script that creates a directory named my
 ciprt 8 : 7-movethatfile => Move the file betty from /tmp/ to /tmp/my_first_directory.
 script 9 : firstdelete => Delete the file betty.
 script 10 : 9-firstdirdeletion => Delete the directory my_first_directory that is in the /tmp directory.
+script 11 : 10-back => Write a script that changes the working directory to the previous one.
 
