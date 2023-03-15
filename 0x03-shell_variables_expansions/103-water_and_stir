@@ -1,2 +1,2 @@
 #!/bin/bash
-printf “%o” $((WATER+STIR))
+printf "%o" $((WATER+STIR))
