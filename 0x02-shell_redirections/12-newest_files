@@ -1,2 +1,2 @@
 #!/bin/bash
-ls ./ -tl | head -5
+ls ./ -Artls | tail -5
